@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">My Favorites</string>
+    <string name="remove">Hapus dari favorit ?</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="ok">Hapus</string>
+    <string name="cancel">Batal</string>
+</resources>

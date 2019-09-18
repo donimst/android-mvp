@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MADE Movie</string>
+    <string name="search">Cari</string>
+    <string name="search_result">Hasil Pencarian</string>
+    <string name="language">Bahasa</string>
+    <string name="add_to_fav">Tambah ke Favorit</string>
+    <string name="remove_from_fav">Hapus dari Favorit</string>
+    <string name="added">Data ditambahkan ke favorit</string>
+    <string name="removed">Data dihapus dari favorit</string>
+    <string name="added_error">Gagal menambah data</string>
+    <string name="removed_error">Gagal menghapus data</string>
+    <string name="empty_data">Data tidak ditemukan</string>
+    <string name="rating">Penilaian</string>
+    <string name="popularity">Popularitas</string>
+    <string name="now_playing">Sedang Tayang</string>
+    <string name="up_coming">Akan Datang</string>
+    <string name="favorites">Favorit</string>
+    <string name="settings">Pengaturan</string>
+    <string name="general">Umum</string>
+    <string name="notifications">Notifikasi</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="release_today">Pengingat Rilis</string>
+    <string name="released_now">Rilis Hari Ini</string>
+
+    <string name="movie_state" translatable="false">movie_state</string>
+    <string name="now_movie_state" translatable="false">now_movie_state</string>
+    <string name="upcome_movie_state" translatable="false">upcome_movie_state</string>
+    <string name="fav_movie_state" translatable="false">fav_movie_state</string>
+    <string name="detail_state" translatable="false">detail_state</string>
+    <string name="search_query" translatable="false">search_query</string>
+    <string name="lang_key" translatable="false">language</string>
+    <string name="daily_key" translatable="false">daily</string>
+    <string name="release_key" translatable="false">release</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:title="@string/general"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:icon="@drawable/ic_language_black_24"
+            android:key="@string/lang_key"
+            android:title="@string/language" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/notifications"
+        app:iconSpaceReserved="false">
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_notifications_black_24"
+            android:key="@string/daily_key"
+            android:title="@string/daily_reminder"
+            app:iconSpaceReserved="false" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_new_releases_black_24"
+            android:key="@string/release_key"
+            android:title="@string/release_today"
+            app:iconSpaceReserved="false" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

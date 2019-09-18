@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/now_playing"
+        android:icon="@drawable/ic_play_circle_36"
+        android:title="@string/now_playing" />
+
+    <item
+        android:id="@+id/up_coming"
+        android:icon="@drawable/ic_schedule_36"
+        android:title="@string/up_coming" />
+
+    <item
+        android:id="@+id/favorite_movie"
+        android:icon="@drawable/ic_favorite_36"
+        android:title="@string/favorites" />
+
+    <item
+        android:id="@+id/app_settings"
+        android:icon="@drawable/ic_settings_36"
+        android:title="@string/settings" />
+
+</menu>
